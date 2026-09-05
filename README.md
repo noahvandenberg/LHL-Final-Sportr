@@ -1,3 +1,16 @@
+## Project components and history
+
+This repository contains the collaborative Sportr web application. The separate
+[sportr-backend](https://github.com/noahvandenberg/sportr-backend) contains the
+Express/PostgreSQL API. Preserve the existing branches, contributor history, and
+project attribution when maintaining either component.
+
+The local cleanup did not run migrations, seed data, or deploy this application.
+Repository metadata includes past GitHub deployments; it does not establish that
+any particular deployment is still active.
+
+## Earlier project documentation
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
